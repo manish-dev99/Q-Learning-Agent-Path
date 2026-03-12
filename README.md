@@ -3,7 +3,7 @@
 
 Interactive **Q-Learning Gridworld** project built with **Streamlit**, where an agent learns to navigate a grid with obstacles and reach a goal. The agent’s path is **animated step by step**, making it visually engaging and ideal for learning reinforcement learning concepts.
 
-[🔗 Live Demo](https://manish-dev99-gridworld.streamlit.app)
+[🔗 Live Demo](https://q-learning-agent-path-7.streamlit.app/)
 
 ---
 
